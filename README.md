@@ -1,6 +1,6 @@
 # ecommerce-email-api
 
-Projeto desenvolvido como completo dos projetos desenvolvidos durante o livecoding da Digital Innovation One, ministrado pelo 
+Projeto desenvolvido como complementoto dos projetos desenvolvidos durante o livecoding da Digital Innovation One, ministrado pelo 
 Daniel Hatanaka
 
 https://github.com/hatanakadaniel/ecommerce-payment-api
